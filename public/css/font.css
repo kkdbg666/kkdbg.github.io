@@ -1,0 +1,9 @@
+@font-face{
+    font-family: '站酷快乐体2016';
+    
+    src: url('/font/站酷快乐体2016.ttf') format("truetype");
+}
+
+body {
+    font-family: '站酷快乐体2016';
+}
